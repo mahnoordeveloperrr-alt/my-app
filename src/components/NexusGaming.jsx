@@ -1646,7 +1646,7 @@ const NexusGaming = () => {
               </div>
             </div>
             <div className="right-box">
-              <video src="/img/1.mp4" autoPlay muted loop playsInline></video>
+              <video src="img/1.mp4" autoPlay muted loop playsInline></video>
               <div className="circle-icons">
                 <div className="circle">▶</div>
                 <div className="circle">⟳</div>
@@ -1673,10 +1673,10 @@ const NexusGaming = () => {
         {/* ========== HERO SECTION 2 ========== */}
         <section className="hero-two">
           <div className="blob blob-left parallax-subtle" data-parallax-speed="0.06">
-            <img src="/img/1.png" alt="Decorative blob" />
+            <img src="img/1.png" alt="Decorative blob" />
           </div>
           <div className="blob blob-right parallax-subtle" data-parallax-speed="-0.05">
-            <img src="/img/1.png" alt="Decorative blob" />
+            <img src="img/1.png" alt="Decorative blob" />
           </div>
           <div className="content">
             <h1>Dominate The Game</h1>
